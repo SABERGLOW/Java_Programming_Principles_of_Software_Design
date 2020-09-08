@@ -1,5 +1,5 @@
 # Java Programming: Principles of Software Design
----
+
 Solutuions to assignments for the course that is offered at <a href="https://www.coursera.org/learn/java-programming-design-principles"> Coursera </a>, by Duke Universitry.
 
 
